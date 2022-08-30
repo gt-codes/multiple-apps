@@ -160,7 +160,7 @@ export default function Example() {
 											id='hero-email'
 											type='email'
 											className='block w-full rounded-md border border-gray-300 px-5 py-3 text-base text-gray-900 placeholder-gray-500 shadow-sm focus:border-rose-500 focus:ring-rose-500'
-											placeholder='Enter your email'
+											placeholder='Email address'
 										/>
 									</div>
 									<div className='mt-4 sm:mt-0 sm:ml-3'>
