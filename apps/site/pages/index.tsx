@@ -154,7 +154,7 @@ export default function Example() {
 								<form action='#' className='mt-12 sm:flex sm:w-full sm:max-w-lg'>
 									<div className='min-w-0 flex-1'>
 										<label htmlFor='hero-email' className='sr-only'>
-											Email address
+											Enter your email
 										</label>
 										<input
 											id='hero-email'
