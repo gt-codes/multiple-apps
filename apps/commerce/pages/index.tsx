@@ -722,7 +722,7 @@ export default function Example() {
 
 				<main className='mx-auto max-w-2xl px-4 lg:max-w-7xl lg:px-8'>
 					<div className='border-b border-gray-200 pt-24 pb-10'>
-						<h1 className='text-4xl font-bold tracking-tight text-gray-900'>New Drops</h1>
+						<h1 className='text-4xl font-bold tracking-tight text-gray-900'>New Drops 🔥</h1>
 						<p className='mt-4 text-base text-gray-500'>
 							Checkout out the latest release of Basic Tees, new and improved with four openings!
 						</p>
