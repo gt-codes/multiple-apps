@@ -144,7 +144,7 @@ export default function Example() {
 								</div>
 								<div className='mt-6 sm:max-w-xl'>
 									<h1 className='text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl'>
-										Issue management for growing teams
+										Issue management for stellar teams
 									</h1>
 									<p className='mt-6 text-xl text-gray-500'>
 										Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat
@@ -167,7 +167,7 @@ export default function Example() {
 										<button
 											type='submit'
 											className='block w-full rounded-md border border-transparent bg-rose-500 px-5 py-3 text-base font-medium text-white shadow hover:bg-rose-600 focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2 sm:px-10'>
-											Notify me
+											Let me know
 										</button>
 									</div>
 								</form>
